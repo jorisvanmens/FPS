@@ -1,0 +1,138 @@
+﻿body 
+{
+	margin:0;
+	padding:0;
+	background-color:#E7EBF2;
+	font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+	font-size: 11px;
+	line-height: 14px;
+	color: #333;
+	overflow:hidden;
+}
+
+h1
+{
+	font-size: 20px;
+	font-weight: bold;
+	margin:0 0 5px 0;
+	color: #1D4088;
+}
+
+h2
+{
+	font-size: 16px;
+	font-weight: bold;
+	margin-top:2px;
+	margin-bottom:4px;
+	color: #1D4088;
+}
+
+#div_loading
+{
+	width: 250px;
+	border: 1px dashed;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+}
+
+#div_slogan
+{
+	font-style:italic;
+	font-size:14px;
+}
+
+#div_title
+{
+	
+}
+
+#div_agebars
+{
+
+}
+
+.appdivs
+{
+	background-color: white;
+	border: 1px solid #97A4C2;
+	width: 760px;
+	margin-bottom:20px;
+	padding:8px;
+}
+
+.smallicon
+{
+	vertical-align:center;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.statusupdate
+{
+	border: solid 1px #C4CDE0;
+	padding: 8px;
+	margin: 8px 8px;
+	background-color: #EDEFF4;
+	height: 50px;
+	word-wrap: break-word;
+}
+
+.mepic
+{
+	width:50;
+	float:left;
+	margin: 0px 8px 0px 0px;
+	padding: 0px;
+}
+
+#div_app
+{
+	width:760px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:0px;
+}
+
+#div_welcome
+{
+	background-image: url(./access-bg.png); 
+	background-repeat:no-repeat; 
+	background-position:center; 
+	text-align:center;
+	height:352px;
+}
+
+#getyourstats
+{
+	font-size:35px; 
+	font-weight:bold;
+}
+
+#div_praise
+{
+	font-size:16px; 
+}
+
+#div_descript
+{
+	visibility:hidden;
+	width: 500px;
+	text-align:left;
+}
+
+#logo
+{
+	float:left;
+	margin-right:10px;
+}
+
+#div_header
+{
+
+}
+
+#div_debug
+{
+	display:none;
+}
